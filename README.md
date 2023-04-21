@@ -1,7 +1,9 @@
 
 
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I+am+Sikindra;I+am+Web+Developer;I+am+from+Nepal)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=700&size=25&duration=4000&pause=1500&color=0FF71C&background=43FF5A00&center=true&vCenter=true&width=435&lines=Hello+I+am+Sikindra+Kumar+Yadav" alt="Typing SVG" /></a>
+
 
 [//]: # (![alt text]&#40;http://url/to/img.png&#41;)
 
