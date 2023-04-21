@@ -9,7 +9,6 @@
 
 # 💫 About Me:
 🎯 I’m currently learning Web Dev, excited to contribute to opensource projects.<br>
-✍️ You can check out my blogs here.<br>
 <br>
 
 
@@ -58,6 +57,5 @@
 [![](https://visitcount.itsvg.in/api?id=Sikindra1&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
-[//]: # (## 💰 You can help me by Donating)
-[//]: # ([![BuyMeACoffee]&#40;https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&#41;]&#40;https://buymeacoffee.com/kk&#41;)
+
 
